@@ -1,4 +1,10 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://github.com/VOIDENN-N/SKY-ASHES2/releases/download/v1.0.2/sky_ashes_1.0.2.zip"
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/VOIDENN-N/SKY-ASHES2/releases/download/v1.0.3/sky_ashes_1.0.3.zip",
+  "removeFiles": [
+    "mods/holdmyitemsnf-1.21.1v2.1.jar",
+    "mods/SmoothPlayerAnimations_Neoforge_1.21.1_1.0.4.jar",
+    "mods/worldedit-mod-7.3.8.jar",
+    "mods/Essential_neoforge_1-21-1.jar"
+  ]
 }
