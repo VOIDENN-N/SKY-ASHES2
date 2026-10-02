@@ -1,13 +1,11 @@
 {
-  "version": "1.0.6",
-  "downloadUrl": "https://github.com/VOIDENN-N/SKY-ASHES2/releases/download/v1.0.6/sky_ashes_1.0.6.zip",
+  "version": "1.0.7",
+  "downloadUrl": "https://github.com/VOIDENN-N/SKY-ASHES2/releases/download/v1.0.7/sky_ashes_1.0.7.zip",
   "removeFiles": [
-    "simplevoicedistanceneoforge-1.6.1-neoforge1.21.1",
-    "mods/ModernUI-NeoForge-1.21.1-3.13.0.1-universal.jar",
-    "mods/dragnsounds-neoforge-1.21.1-alpha-0.2.2-1.jar",
-    "mods/matmos_tct-7.7-neoforge-1.21.1.jar",
-    "mods/ragdoll_corpse-1.21.1-0.3.0.jar",
-    "mods/ragdoll_reactions-1.21.1-0.7.0.jar",
-    "mods/sable_ragdoll_revival-1.2.2.jar"
+    "mods/simplevoicedistanceneoforge-1.6.1-neoforge1.21.1.jar",
+    "mods/Essential_1-5-0-1_neoforge_1-21-1.jar",
+    "mods/upgrader-neoforge-1.2.0+1.21.1.jar",
+    "mods/bbs-2.1-1.21.1.jar",
+    "mods/forgematica-0.4.2+mc1.21.1.jar"
   ]
 }
