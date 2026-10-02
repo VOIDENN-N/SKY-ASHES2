@@ -1,11 +1,7 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://github.com/VOIDENN-N/SKY-ASHES2/releases/download/v1.0.7/sky_ashes_1.0.7.zip",
+  "version": "1.0.8",
+  "downloadUrl": "https://github.com/VOIDENN-N/SKY-ASHES2/releases/download/v1.0.8/sky_ashes_1.0.8.zip",
   "removeFiles": [
-    "mods/simplevoicedistanceneoforge-1.6.1-neoforge1.21.1.jar",
-    "mods/Essential_1-5-0-1_neoforge_1-21-1.jar",
-    "mods/upgrader-neoforge-1.2.0+1.21.1.jar",
-    "mods/bbs-2.1-1.21.1.jar",
-    "mods/forgematica-0.4.2+mc1.21.1.jar"
+    "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar"
   ]
 }
