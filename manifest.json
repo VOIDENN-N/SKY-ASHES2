@@ -1,7 +1,4 @@
 {
-  "version": "1.0.8",
-  "downloadUrl": "https://github.com/VOIDENN-N/SKY-ASHES2/releases/download/v1.0.8/sky_ashes_1.0.8.zip",
-  "removeFiles": [
-    "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar"
-  ]
+  "version": "1.0.9",
+  "downloadUrl": "https://github.com/VOIDENN-N/SKY-ASHES2/releases/download/v1.0.9/sky_ashes_1.0.9.zip"
 }
