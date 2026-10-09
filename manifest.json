@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "downloadUrl": "https://github.com/VOIDENN-N/SKY-ASHES2/releases/download/v1.2.1/sky_ashes_1.2.1.zip",
+  "version": "1.2.2",
+  "downloadUrl": "https://github.com/VOIDENN-N/SKY-ASHES2/releases/download/v1.2.2/sky_ashes_1.2.2.zip",
   "removeFiles": [
     "SubtleEffects-neoforge-1.21.1-1.14.3.jar.disabled",
     "mods/Axiom-6.0.5-for-MC1.21.1.jar",
@@ -116,6 +116,7 @@
     "gtbcs_cataclysmic_uis-1.0.3+1.21.1.jar",
     "handcrafted-neoforge-1.21.1-4.0.3.jar",
     "handycam-2.0.0-alpha+1.21.1-neoforge.jar",
+    "ignitehud-21.1.2.jar",
     "ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
     "immersivehotbar-1.2.2-neoforge-1.21-1.21.1.jar",
     "immersiveoverlays-1.8.3+1.21.1-neoforge.jar",
